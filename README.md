@@ -11,7 +11,7 @@ Aside from this readme, the `adr` folder contains the required notes expressing 
 have been done differently had the time spent on the task been a week.
 
 ## Tech
-The application is built using Spring Boot and Java.
+The application is built using Spring Boot and Java (JDK 11).
 Dependency management and build uses Gradle. The Gradle Wrapper is used so that
 Gradle need not be installed as a prerequisite.
 
