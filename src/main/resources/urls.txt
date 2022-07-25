@@ -1,0 +1,3 @@
+http://example.com
+https://github.githubassets.com/images/mona-loading-default.gif
+http://www.rcgrabbag.com/wp-content/uploads/2010/09/AstrocamBW.jpg
