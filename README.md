@@ -6,6 +6,9 @@ The application then downloads the content from the URLs in parallel and calcula
 the MD5 hash of each URL content. The list of URLs processed is configurable as well
 as the number of threads used to hash the url content (see below);
 
+## Prerequisites
+JDK 11 or above needs to be installed locally.
+
 ## Documentation
 Aside from this readme, the `adr` folder contains the required notes expressing what would 
 have been done differently had the time spent on the task been a week.
